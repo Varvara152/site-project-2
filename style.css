@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(white,#7F44D6);
+
+}
+h1{
+    text-align: center;
+    color:#6e36c2;
+    border:6px #8d56df  solid;
+}
+
+img:hover{
+    border:5px #4F10AD solid;
+}
+li{
+    color:white;
+}
+h2{
+    color:#4F10AD;
+    text-decoration: underline;
+}
+
+h1:hover{
+    background-color:#8d56df ;
+}
